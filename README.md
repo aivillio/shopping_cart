@@ -1,1 +1,1 @@
-# cs50_1
+A shopping cart checkout system with mysql and python 
